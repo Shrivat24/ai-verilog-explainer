@@ -1,3 +1,40 @@
+# AI Verilog Explainer 🚀
+
+An AI-powered web application that explains Verilog code in beginner-friendly language using Groq AI.
+
+## 🌐 Live Demo
+https://ai-verilog-explainer.vercel.app
+
+---
+
+## 📌 Features
+
+- Paste Verilog code and get instant AI explanations
+- Beginner-friendly code breakdown
+- AI-powered backend using Groq API
+- Modern UI built with Next.js and Tailwind CSS
+- Fast and responsive interface
+
+---
+
+## 🛠️ Tech Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- Groq API
+- TypeScript
+- Vercel
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Shrivat24/ai-verilog-explainer.git
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
